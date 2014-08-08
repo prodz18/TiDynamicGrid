@@ -1,0 +1,8 @@
+<Alloy>
+	<Window id="win">
+		<View id="header" platform="ios">
+			<Label id="headerTitle">TiDynamicGrid</Label>
+		</View>
+		<Require type="widget" src="com.prodz.tidynamicgrid" id="tdg"/>
+	</Window>		
+</Alloy>

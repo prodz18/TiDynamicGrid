@@ -1,0 +1,21 @@
+"#win":{
+	backgroundColor:'#fff',
+	navBarHidden:true,
+	tabBarHidden:true,
+	layout:'vertical',
+	orientationModes: [Ti.UI.PORTRAIT,Ti.UI.LANDSCAPE_LEFT,Ti.UI.LANDSCAPE_RIGHT,Ti.UI.UPSIDE_PORTRAIT],
+	exitOnClose:true
+},
+"#header":{
+	backgroundColor:'#7bc14f',
+	width:Ti.UI.FILL,
+	height:60
+},
+"#headerTitle":{
+	text:'TiFlexiGrid',
+	width:Ti.UI.SIZE,
+	height:Ti.UI.SIZE,
+	color:'#fff',
+	font:{fontSize:18,fontWeight:'bold'},
+	bottom:10
+}

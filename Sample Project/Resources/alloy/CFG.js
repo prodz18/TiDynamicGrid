@@ -1,0 +1,1 @@
+module.exports={"dependencies":{"com.prodz.tidynamicgrid":"1.0"}};

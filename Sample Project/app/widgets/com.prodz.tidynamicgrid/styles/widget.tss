@@ -1,0 +1,19 @@
+"#tdgMain": {
+	backgroundColor: '#fff',
+	height: Ti.UI.FILL,
+	width: Ti.UI.FILL
+},
+"#tdgWrapper":{
+	width:Ti.UI.FILL,
+	height:Ti.UI.FILL,
+	backgroundColor:'transparent'
+},
+"#tdgScrollView":{
+	width: Ti.UI.FILL,
+	height:Ti.UI.FILL,
+	contentHeight: Ti.UI.SIZE,
+	contentWidth: Ti.UI.FILL,
+	layout:'horizontal',
+	backgroundColor:'transparent',
+	scrollType:'vertical'
+}

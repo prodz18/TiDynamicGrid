@@ -1,0 +1,30 @@
+"#mainView":{
+	width:Ti.UI.FILL,
+	height:Ti.UI.SIZE,
+	layout:'vertical',
+	backgroundColor:'transparent',
+	zIndex:0
+},
+"#thumb":{
+	width:Ti.UI.FILL,
+	height:Ti.UI.SIZE
+},
+"#title":{
+	width:Ti.UI.FILL,
+	height:Ti.UI.SIZE,
+	font:{fontSize:10},
+	left:5,
+	right:5,
+	top:3,
+	color:'#5acbed'
+},
+"#subtitle":{
+	width:Ti.UI.FILL,
+	height:Ti.UI.SIZE,
+	font:{fontSize:7},
+	left:5,
+	right:5,
+	top:0,
+	bottom:5,
+	color:'#555'
+}

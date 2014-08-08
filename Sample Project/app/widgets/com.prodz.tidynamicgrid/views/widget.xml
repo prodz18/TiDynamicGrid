@@ -1,0 +1,7 @@
+<Alloy>
+	<View id="tdgMain">
+		<View id="tdgWrapper">
+			<ScrollView id="tdgScrollView"/>
+		</View>	
+	</View>
+</Alloy>
